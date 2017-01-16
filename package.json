@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "elixir-alphabetize:beautify"
   },
-  "repository": "https://github.com/atom/elixir-alphabetize",
+  "repository": "https://github.com/mkaplan9/elixir-alphabetize",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
