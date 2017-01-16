@@ -1,0 +1,18 @@
+{
+  "name": "elixir-alphabetize",
+  "main": "./lib/elixir-alphabetize",
+  "version": "0.0.0",
+  "description": "Alphabetizes alias, require, use at the top of an elixir file",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "elixir-alphabetize:beautify"
+  },
+  "repository": "https://github.com/atom/elixir-alphabetize",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
