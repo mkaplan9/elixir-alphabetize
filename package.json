@@ -1,10 +1,9 @@
 {
   "name": "elixir-alphabetize",
   "main": "./lib/elixir-alphabetize",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Alphabetizes alias, require, use at the top of an elixir file",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "elixir-alphabetize:beautify"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
