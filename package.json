@@ -1,7 +1,7 @@
 {
   "name": "elixir-alphabetize",
   "main": "./lib/elixir-alphabetize",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Alphabetizes alias, require, use at the top of an elixir file",
   "keywords": [],
   "activationCommands": {
